@@ -46,12 +46,12 @@ State Management: Redux Toolkit (optional if you used it)
 ## ⚙️ Setup Instructions
 
 # 🔹 Local Setup
-#  1. Clone repository
+  1. Clone repository
 ```bash
 git clone https://github.com/<your-username>/ats-tracker.git
 cd ats-tracker
 ```
-#  2. Install dependencies
+  2. Install dependencies
 ```bash
 # Backend
 cd server
