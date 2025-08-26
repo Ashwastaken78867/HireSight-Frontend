@@ -116,11 +116,11 @@ Backend
 [Video Link](https://drive.google.com/file/d/18WG0gSSXc9gCzxeugwXsbBS_Upb4Bvq7/view?usp=sharing)
 
 # ✨ Features
--✅ Visual Kanban board for tracking applications
--✅ Analytics dashboard for insights
--✅ CRUD operations for applications
--✅ Authentication & JWT (if implemented)
--✅ Rate limiting (optional)
+- ✅ Visual Kanban board for tracking applications
+- ✅ Analytics dashboard for insights
+- ✅ CRUD operations for applications
+- ✅ Authentication & JWT (if implemented)
+- ✅ Rate limiting (optional)
 
 # 👨‍💻 Author
 
