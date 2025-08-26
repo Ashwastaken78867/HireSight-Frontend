@@ -61,7 +61,7 @@ npm install
 cd ../client
 npm install
 ```
-#  3. Setup environment variables
+  3. Setup environment variables
 
 Create .env file in server/ with:
 
@@ -70,7 +70,7 @@ MONGODB_URI=mongodb://localhost:27017/ats-tracker
 PORT=5000
 
 ```
-#  4. Run the app
+  4. Run the app
 ```bash
 # Start backend
 cd server
@@ -81,3 +81,55 @@ cd ../client
 npm run dev
 
 ```
+5. Open in browser: http://localhost:5173
+
+#🔹 Cloud Deployment
+Backend (Node.js + Express)
+  Deploy on Render / Railway / Heroku
+  Use MongoDB Atlas connection string in .env
+
+Frontend (React)
+  Deploy on Vercel / Netlify
+  Update API base URL to point to deployed backend
+
+Example:
+  Frontend: https://ats-tracker.vercel.app
+  Backend: https://ats-tracker-api.onrender.com
+  Database: MongoDB Atlas
+
+# 📦 Libraries Used
+
+Frontend
+
+. React.js
+. Tailwind CSS
+. @hello-pangea/dnd (Drag & Drop Kanban)
+. Recharts (Analytics/Charts)
+. Redux Toolkit (State Management)
+
+Backend
+. Express.js
+. Mongoose
+. bcrypt (if authentication)
+. jsonwebtoken (if authentication)
+. dotenv
+
+# Demo
+[Video](https://drive.google.com/file/d/18WG0gSSXc9gCzxeugwXsbBS_Upb4Bvq7/view?usp=sharing  NOW )
+
+
+
+
+# ✨ Features
+✅ Visual Kanban board for tracking applications
+✅ Analytics dashboard for insights
+✅ CRUD operations for applications
+✅ Authentication & JWT (if implemented)
+✅ Rate limiting (optional)
+
+# 👨‍💻 Author
+
+. Ash Bagda
+. GitHub: https://github.com/Ashwastaken78867
+. LinkedIn: https://www.linkedin.com/in/bagdaash03/
+
