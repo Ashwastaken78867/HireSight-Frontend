@@ -101,14 +101,13 @@ Frontend
  - Tailwind CSS
  - @hello-pangea/dnd (Drag & Drop Kanban)
  - Recharts (Analytics/Charts)
- - Redux Toolkit (State Management)
 
 Backend
 
 - Express.js
 - Mongoose
-- bcrypt (if authentication)
-- jsonwebtoken (if authentication)
+- bcrypt 
+- jsonwebtoken 
 - dotenv
 
 # Demo
