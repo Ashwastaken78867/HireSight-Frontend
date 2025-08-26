@@ -115,7 +115,7 @@ Backend
 . dotenv
 
 # Demo
-[Video](https://drive.google.com/file/d/18WG0gSSXc9gCzxeugwXsbBS_Upb4Bvq7/view?usp=sharing  NOW )
+[Video](https://drive.google.com/file/d/18WG0gSSXc9gCzxeugwXsbBS_Upb4Bvq7/view?usp=sharing)
 
 
 
