@@ -101,11 +101,11 @@ Example:
 
 Frontend
 
-. React.js
-. Tailwind CSS
-. @hello-pangea/dnd (Drag & Drop Kanban)
-. Recharts (Analytics/Charts)
-. Redux Toolkit (State Management)
+ React.js
+ Tailwind CSS
+ @hello-pangea/dnd (Drag & Drop Kanban)
+ Recharts (Analytics/Charts)
+ Redux Toolkit (State Management)
 
 Backend
 . Express.js
