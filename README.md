@@ -19,8 +19,6 @@ Backend: Node.js + Express.js (REST APIs)
 
 Database: MongoDB (local or cloud - Atlas)
 
-State Management: Redux Toolkit (optional if you used it)
-
 ## 🗄️ Database Schema
 
 ```bash
@@ -108,17 +106,14 @@ Frontend
  - Redux Toolkit (State Management)
 
 Backend
-. Express.js
-. Mongoose
-. bcrypt (if authentication)
-. jsonwebtoken (if authentication)
-. dotenv
+- Express.js
+- Mongoose
+- bcrypt (if authentication)
+- jsonwebtoken (if authentication)
+- dotenv
 
 # Demo
-[Video](https://drive.google.com/file/d/18WG0gSSXc9gCzxeugwXsbBS_Upb4Bvq7/view?usp=sharing)
-
-
-
+[Video Link](https://drive.google.com/file/d/18WG0gSSXc9gCzxeugwXsbBS_Upb4Bvq7/view?usp=sharing)
 
 # ✨ Features
 ✅ Visual Kanban board for tracking applications
@@ -129,7 +124,7 @@ Backend
 
 # 👨‍💻 Author
 
-. Ash Bagda
-. GitHub: https://github.com/Ashwastaken78867
-. LinkedIn: https://www.linkedin.com/in/bagdaash03/
+- Ash Bagda
+- GitHub: https://github.com/Ashwastaken78867
+- LinkedIn: https://www.linkedin.com/in/bagdaash03/
 
