@@ -1,4 +1,4 @@
-** 📌 ATS Tracker
+## 📌 ATS Tracker
 
 An Applicant Tracking System (ATS) Tracker that helps recruiters and job seekers visually manage job applications using a Kanban board, gain insights through an analytics dashboard, and persist all data in MongoDB.
 
