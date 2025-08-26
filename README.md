@@ -118,9 +118,8 @@ Backend
 -  Visual Kanban board for tracking applications
 -  Analytics dashboard for insights
 -  CRUD operations for applications
--  Authentication & JWT (if implemented)
--  Rate limiting (optional)
-
+-  Authentication
+  
 # 👨‍💻 Author
 
 - Ash Bagda
