@@ -3,13 +3,13 @@
 An Applicant Tracking System (ATS) Tracker that helps recruiters and job seekers visually manage job applications using a Kanban board, gain insights through an analytics dashboard, and persist all data in MongoDB.
 
 ## 🚀 Project Overview
-Organizing applications into stages (Applied, Interview, Offer, Rejected, etc.) with a Kanban board.
+- Organizing applications into stages (Applied, Interview, Offer, Rejected, etc.) with a Kanban board.
 
-Providing analytics dashboards to track progress and success rates.
+- Providing analytics dashboards to track progress and success rates.
 
-Offering a clean, modern UI with React + Tailwind CSS.
+- Offering a clean, modern UI with React + Tailwind CSS.
 
-Using MongoDB as the database to store applications and analytics data.
+- Using MongoDB as the database to store applications and analytics data.
 
 ## 🏗️ Architecture            
             
@@ -44,19 +44,19 @@ Database: MongoDB (local or cloud - Atlas)
 ## ⚙️ Setup Instructions
 
 # 🔹 Local Setup
-  1. Clone repository
+  1. Clone repository for frontend and backend
 ```bash
-git clone https://github.com/<your-username>/ats-tracker.git
-cd ats-tracker
+git clone https://github.com/Ashwastaken78867/HireSight-Frontend.git
+cd frontend
+git clone https://github.com/Ashwastaken78867/HireSight-Backend.git
+cd backend
 ```
   2. Install dependencies
 ```bash
 # Backend
-cd server
 npm install
 
 # Frontend
-cd ../client
 npm install
 ```
   3. Setup environment variables
@@ -71,11 +71,9 @@ PORT=5000
   4. Run the app
 ```bash
 # Start backend
-cd server
 npm run dev
 
 # Start frontend
-cd ../client
 npm run dev
 
 ```
@@ -83,17 +81,17 @@ npm run dev
 
 #🔹 Cloud Deployment
 Backend (Node.js + Express)
-  Deploy on Render / Railway / Heroku
-  Use MongoDB Atlas connection string in .env
+ - Deploy on Render 
+  - Use MongoDB Atlas connection string in .env
 
 Frontend (React)
-  Deploy on Vercel / Netlify
-  Update API base URL to point to deployed backend
+  - Deploy on Render
+  - Update API base URL to point to deployed backend
 
 Example:
-  Frontend: https://ats-tracker.vercel.app
-  Backend: https://ats-tracker-api.onrender.com
-  Database: MongoDB Atlas
+  - Frontend: https://hiresight-frontend.onrender.com
+  - Backend: https://hiresight-backend-1.onrender.com
+  - Database: MongoDB free Cluster
 
 # 📦 Libraries Used
 
@@ -106,6 +104,7 @@ Frontend
  - Redux Toolkit (State Management)
 
 Backend
+
 - Express.js
 - Mongoose
 - bcrypt (if authentication)
